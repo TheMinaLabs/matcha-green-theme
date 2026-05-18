@@ -1,0 +1,23 @@
+{
+  "name": "matcha-green",
+  "displayName": "Matcha-green",
+  "publisher": "theminalabs",
+  "icon": "icon.png",
+  "version": "0.0.2",
+  "description": "A matcha green theme by Mina",
+  "engines": {
+    "vscode": "^1.118.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Matcha Green Theme",
+        "uiTheme": "vs",
+        "path": "./themes/Matcha Green Theme-color-theme.json"
+      }
+    ]
+  }
+}
